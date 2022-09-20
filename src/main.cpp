@@ -1,3 +1,9 @@
+/*Programa realizado usando maquinas de estados 
+/*realiza los cambios de estadso mediante un temporizador no bloqueante
+/*Autor: Martinez Horacio
+/*Taller de Instrumentacion 2do cuantrimestre 2022
+/**/
+
 #include <Arduino.h>
 
 #define LED_VERDE       2
